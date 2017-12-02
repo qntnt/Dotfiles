@@ -8,3 +8,8 @@ pip3 install dotfiles
 git clone <this repo> ~/Dotfiles
 dotfiles --sync
 ```
+
+## Setup
+```bash
+sh ~/.setup.sh
+```
